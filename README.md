@@ -30,7 +30,14 @@ Video: Setup Active Directory - ADDS Role | By Mohamed Zohdy (Arabic)
 
 📸 Screenshots
 Below are the screenshots of each configuration step I followed during the project:
-
+https://github.com/Abdallahreda97/-Setup-Active-Directory-Domain-Services-ADDS-on-Windows-Server/blob/main/Screenshots/Setup%20Active%20Directory1.png
+https://github.com/Abdallahreda97/-Setup-Active-Directory-Domain-Services-ADDS-on-Windows-Server/blob/main/Screenshots/Setup%20Active%20Directory2.png
+https://github.com/Abdallahreda97/-Setup-Active-Directory-Domain-Services-ADDS-on-Windows-Server/blob/main/Screenshots/Setup%20Active%20Directory3.png
+https://github.com/Abdallahreda97/-Setup-Active-Directory-Domain-Services-ADDS-on-Windows-Server/blob/main/Screenshots/Setup%20Active%20Directory4.png
+https://github.com/Abdallahreda97/-Setup-Active-Directory-Domain-Services-ADDS-on-Windows-Server/blob/main/Screenshots/Setup%20Active%20Directory5.png
+https://github.com/Abdallahreda97/-Setup-Active-Directory-Domain-Services-ADDS-on-Windows-Server/blob/main/Screenshots/Setup%20Active%20Directory6.png
+https://github.com/Abdallahreda97/-Setup-Active-Directory-Domain-Services-ADDS-on-Windows-Server/blob/main/Screenshots/Setup%20Active%20Directory7.png
+https://github.com/Abdallahreda97/-Setup-Active-Directory-Domain-Services-ADDS-on-Windows-Server/blob/main/Screenshots/Setup%20Active%20Directory8.png
 🧠 Notes
 I completed this lab project independently as part of my goal to develop hands-on experience in Microsoft Server environments and enhance my system administration skills.
 
